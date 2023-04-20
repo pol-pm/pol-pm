@@ -13,7 +13,7 @@
 
 
 ### Carousel
-[Ccarousel](https://pol-pm.github.io/starter-template/carousel.html)
+[Carousel](https://pol-pm.github.io/starter-template/carousel.html)
 
 ### Card
 [Card](https://pol-pm.github.io/starter-template/card.html)
