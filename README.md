@@ -19,6 +19,7 @@
 - [Vanilla JS Loops - Activity 1](https://cs.pol.pm/vjsloopsa1.html)
 - [Vanilla JS Loops - Activity 2](https://cs.pol.pm/vjsloopsa2.html)
 - [Vanilla JS Arrays - Activity 1](https://cs.pol.pm/vjsarraysa1.html)
+- [Vanilla JS Arrays - Activity 2](https://cs.pol.pm/vjsarraysa2.html)
 
 <!--
 **pol-pm/pol-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
