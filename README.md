@@ -2,22 +2,12 @@
 
 ## CodeSpace Induction
 
-### Layout
-[Layouts](https://pol-pm.github.io/starter-template/layout.html)
-
-### Grid
-[Grid](https://pol-pm.github.io/starter-template/grids.html)
-
-### Navbar
-[Navbar](https://pol-pm.github.io/starter-template/navbar.html)
-
-
-### Carousel
-[Carousel](https://pol-pm.github.io/starter-template/carousel.html)
-
-### Card
-[Card](https://pol-pm.github.io/starter-template/card.html)
-
+### HTML / Bootstrap
+- [Layouts](https://pol-pm.github.io/starter-template/layout.html)
+- [Grid](https://pol-pm.github.io/starter-template/grids.html)
+- [Navbar](https://pol-pm.github.io/starter-template/navbar.html)
+- [Carousel](https://pol-pm.github.io/starter-template/carousel.html)
+- [Card](https://pol-pm.github.io/starter-template/card.html)
 
 <!--
 **pol-pm/pol-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
