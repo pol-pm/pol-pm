@@ -1,6 +1,5 @@
 # Hi there 👋
 
-
 ## CodeSpace Induction
 
 ### HTML / Bootstrap
@@ -20,6 +19,7 @@
 - [Vanilla JS Loops - Activity 2](https://cs.pol.pm/vjsloopsa2.html)
 - [Vanilla JS Arrays - Activity 1](https://cs.pol.pm/vjsarraysa1.html)
 - [Vanilla JS Arrays - Activity 2](https://cs.pol.pm/vjsarraysa2.html)
+- [Vanilla JS Arrays - Activity 3](https://cs.pol.pm/vjsarraysa3.html)
 
 <!--
 **pol-pm/pol-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
