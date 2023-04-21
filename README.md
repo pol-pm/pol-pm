@@ -21,6 +21,11 @@
 - [Vanilla JS Arrays - Activity 2](https://cs.pol.pm/vjsarraysa2.html)
 - [Vanilla JS Arrays - Activity 3](https://cs.pol.pm/vjsarraysa3.html)
 
+## Tools
+- [GitHub Desktop](https://desktop.github.com/)
+- [XAMPP](https://www.apachefriends.org/index.html)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
 <!--
 **pol-pm/pol-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
