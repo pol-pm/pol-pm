@@ -1,5 +1,7 @@
 # Hi there 👋
 
+I'm Jacek (known as ***Jack*** or ***Adi***) from *Edinburgh, Scotland*.
+
 ## CodeSpace Induction
 
 ### HTML / Bootstrap
