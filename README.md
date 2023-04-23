@@ -32,9 +32,9 @@ I'm Jacek (known as ***Jack*** or ***Adi***) from *Edinburgh, Scotland*.
 - [Challenge 1](https://cs.pol.pm/codespace.html)
 
 ## Tools
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [GitHub Desktop](https://desktop.github.com/)
 - [XAMPP](https://www.apachefriends.org/index.html)
-- [Visual Studio Code](https://code.visualstudio.com/)
 
 <!--
 **pol-pm/pol-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
