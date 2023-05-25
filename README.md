@@ -2,6 +2,15 @@
 
 I'm Jacek (known as ***Jack*** or ***Adi***) from *Edinburgh, Scotland*.
 
+- 🔭 Actively working on diverse WordPress, WooCommerce and Brizy Cloud website projects, with a commitment to delivering high-quality results.
+- 🌱 Actively learning full stack web development through a software bootcamp, encompassing Cypress testing, MySQL databases, PHP web technologies and HTML with Bootstrap. Excited to apply these skills in potential opportunities.
+- 👯 I am seeking collaboration on a web development project, uniting skilled professionals to work together on diverse tasks, fostering a friendly and efficient environment for success.
+- 🤔 I am seeking a job opportunity that allows me to learn and grow in a friendly, supportive environment, while ensuring safety and stability for my professional development. Your assistance in identifying such opportunities would be greatly appreciated.
+- 💬 Feel free to inquire about any job positions that might be available for a candidate like me.
+- 📫 Get in touch: visit [pol.pm](https://pol.pm) and discover the best way to connect with me.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: Sometimes I wonder if I’m human, an AI, or a bot – but rest assured, I’ve got the skills and humour of a real person!
+
 ## CodeSpace Induction
 
 ### HTML / Bootstrap
