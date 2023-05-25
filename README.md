@@ -35,6 +35,7 @@ I'm Jacek (known as ***Jack*** or ***Adi***) from *Edinburgh, Scotland*.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [GitHub Desktop](https://desktop.github.com/)
 - [XAMPP](https://www.apachefriends.org/index.html)
+- [Cypress](https://cypress.io/)
 
 <!--
 **pol-pm/pol-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
