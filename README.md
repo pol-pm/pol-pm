@@ -3,7 +3,7 @@
 I'm Jacek (known as ***Jack*** or ***Adi***) from *Edinburgh, Scotland*.
 
 - 🔭 Actively working on diverse WordPress, WooCommerce and Brizy Cloud website projects, with a commitment to delivering high-quality results.
-- 🌱 Actively learning full stack web development through a software bootcamp, encompassing Cypress testing, MySQL databases, PHP web technologies and HTML with Bootstrap. Excited to apply these skills in potential opportunities.
+- 🌱 Actively learning full stack web development through a software bootcamp, covering Vanilla JavaScript, Node.js, Cypress testing, MySQL databases, PHP web technologies and HTML with Bootstrap. Eager to apply these skills in potential opportunities.
 - 👯 I am seeking collaboration on a web development project, uniting skilled professionals to work together on diverse tasks, fostering a friendly and efficient environment for success.
 - 🤔 I am seeking a job opportunity that allows me to learn and grow in a friendly, supportive environment, while ensuring safety and stability for my professional development. Your assistance in identifying such opportunities would be greatly appreciated.
 - 💬 Feel free to inquire about any job positions that might be available for a candidate like me.
