@@ -12,10 +12,7 @@ I'm Jacek (known as ***Jack*** or ***Adi***) from *Edinburgh, Scotland*.
 - ⚡ Fun fact: Sometimes I wonder if I’m human, an AI, or a bot – but rest assured, I’ve got the skills and humour of a real person!
 
 ## Tools
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [GitHub Desktop](https://desktop.github.com/)
-- [XAMPP](https://www.apachefriends.org/index.html)
-- [Cypress](https://cypress.io/)
+[Visual Studio Code](https://code.visualstudio.com/) | [GitHub Desktop](https://desktop.github.com/) | [XAMPP](https://www.apachefriends.org/index.html) | [Cypress](https://cypress.io/) | [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
 
 ## CodeSpace Induction
 
@@ -26,7 +23,7 @@ I'm Jacek (known as ***Jack*** or ***Adi***) from *Edinburgh, Scotland*.
 [Activity 1](https://cs.pol.pm/vanillajs1.html) | [Activity 2](https://cs.pol.pm/vanillajs2.html) | [Control Statements - Activity 1](https://cs.pol.pm/vjscsa1.html) | [Control Statements - Activity 2](https://cs.pol.pm/vjscsa2.html) | [Vanilla JS Loops - Activity 1](https://cs.pol.pm/vjsloopsa1.html) | [Vanilla JS Loops - Activity 2](https://cs.pol.pm/vjsloopsa2.html) | [Vanilla JS Arrays - Activity 1](https://cs.pol.pm/vjsarraysa1.html) | [Vanilla JS Arrays - Activity 2](https://cs.pol.pm/vjsarraysa2.html) | [Vanilla JS Arrays - Activity 3](https://cs.pol.pm/vjsarraysa3.html) | [Vanilla JS Functions - Activity 1](https://cs.pol.pm/vjsfunca1.html) | [Vanilla JS Functions - Activity 2](https://cs.pol.pm/vjsfunca2.html) | [Vanilla JS Functions - Activity 3](https://cs.pol.pm/vjsfunca3.html) | [Vanilla JS DOM - Activity 1](https://cs.pol.pm/vjsdoma1.html) | [Vanilla JS DOM - Activity 2](https://cs.pol.pm/vjsdoma2.html)
 
 ## CodeSpace
-- [Challenge 1](https://cs.pol.pm/codespace.html)
+[Challenge 1](https://cs.pol.pm/codespace.html)
 
 <!--
 **pol-pm/pol-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
