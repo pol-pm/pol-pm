@@ -42,9 +42,7 @@ I'm Jacek (also known as ***Jack*** and ***Adi***) from *Edinburgh, Scotland*.
 4. [Abstraction](https://github.com/pol-pm/starter-template/blob/main/CC2/class4_abs.js)
 
 #### Additional examples
-* [Class - Constructor](https://github.com/pol-pm/starter-template/blob/main/CC2/class_constructor.js)
-* [Class - Abstraction](https://github.com/pol-pm/starter-template/blob/main/CC2/class_abstract.js)
-* [Class - Methods](https://github.com/pol-pm/starter-template/blob/main/CC2/class_methods.js)
+[Class - Constructor](https://github.com/pol-pm/starter-template/blob/main/CC2/class_constructor.js) | [Class - Abstraction](https://github.com/pol-pm/starter-template/blob/main/CC2/class_abstract.js) | [Class - Methods](https://github.com/pol-pm/starter-template/blob/main/CC2/class_methods.js)
 
 ### Code Challenge 3
 [Calculator](https://cs.pol.pm/CC3/)
