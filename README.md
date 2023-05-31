@@ -15,7 +15,7 @@ I'm Jacek (also known as ***Jack*** and ***Adi***) from *Edinburgh, Scotland*.
 [Visual Studio Code](https://code.visualstudio.com/) | [GitHub Desktop](https://desktop.github.com/) | [XAMPP](https://www.apachefriends.org/index.html) | [Cypress](https://cypress.io/) | [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
 
 ## Docs
-* [HTML Standard](https://html.spec.whatwg.org/) | [Bootstrap](https://getbootstrap.com/docs/versions/) | [Vanilla JS](https://vanilla.js.org/) | [PHP](https://www.php.net/docs.php) | [WordPress](https://wordpress.org/documentation/) | [MySQL](https://dev.mysql.com/doc/refman/8.0/en/)
+* [HTML Standard](https://html.spec.whatwg.org/) | [Bootstrap](https://getbootstrap.com/docs/versions/) | [Vanilla JS](https://vanilla.js.org/) | [PHP](https://www.php.net/docs.php) | [MySQL](https://dev.mysql.com/doc/refman/8.0/en/) | [WordPress](https://wordpress.org/documentation/)
 * [W3 Schools](https://www.w3schools.com/)
 
 ## CodeSpace Induction
