@@ -25,6 +25,29 @@ I'm Jacek (also known as ***Jack*** and ***Adi***) from *Edinburgh, Scotland*.
 ## CodeSpace
 [Challenge 1](https://cs.pol.pm/codespace.html)
 
+### Code Challenge 1
+[Task 1 - reverseString](https://github.com/pol-pm/starter-template/blob/main/CC1/task1.js) | [Task 2 - reverseArray](https://github.com/pol-pm/starter-template/blob/main/CC1/task2.js) | [Task 3 - mostExpensiveItem](https://github.com/pol-pm/starter-template/blob/main/CC1/task3.js)
+
+### Code Challenge 2
+[Task 1 - Classes and Objects](https://github.com/pol-pm/starter-template/blob/main/CC2/task1.js) | [Task 2 - Encapsulation](https://github.com/pol-pm/starter-template/blob/main/CC2/task2.js) | [Task 3 - Inheritance (Subclass and Superclass)](https://github.com/pol-pm/starter-template/blob/main/CC2/task3.js) | [Task 4 - Polymorphism](https://github.com/pol-pm/starter-template/blob/main/CC2/task4.js) | [Task 5 - Abstraction](https://github.com/pol-pm/starter-template/blob/main/CC2/task5.js)
+
+#### The Four Principles (or Pillars) of Object-Oriented Programming
+1. [Encapsulation](https://github.com/pol-pm/starter-template/blob/main/CC2/class1_enc.js)
+2. [Inheritance](https://github.com/pol-pm/starter-template/blob/main/CC2/class2_inh.js)
+3. [Polymorphism](https://github.com/pol-pm/starter-template/blob/main/CC2/class2_pol.js)
+4. [Abstraction](https://github.com/pol-pm/starter-template/blob/main/CC2/class4_abs.js)
+
+#### Additional examples
+* [Class - Constructor](https://github.com/pol-pm/starter-template/blob/main/CC2/class_constructor.js)
+* [Class - Abstraction](https://github.com/pol-pm/starter-template/blob/main/CC2/class_abstract.js)
+* [Class - Methods](https://github.com/pol-pm/starter-template/blob/main/CC2/class_methods.js)
+
+### Code Challenge 3
+[Calculator](https://cs.pol.pm/CC3/)
+
+### Secret Number Game
+[Secret Number Guessing Game](https://cs.pol.pm/SecretNumber)
+
 <!--
 **pol-pm/pol-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
