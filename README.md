@@ -50,6 +50,10 @@ I'm Jacek (also known as ***Jack*** and ***Adi***) from *Edinburgh, Scotland*.
 ### Secret Number Game
 [Secret Number Guessing Game](https://cs.pol.pm/SecretNumber)
 
+### Cypress test challenges
+- [Calculator app tests](https://github.com/pol-pm/cypress-tests/blob/14a83b95ecfce052d3530ce5ea62fa9c7858fbdf/calc.cy.js)
+- [RPS game tests](https://github.com/pol-pm/cypress-tests/blob/58338243f3ca311f76766b71d606e3d8eae3b278/rps.cy.js)
+
 <!--
 **pol-pm/pol-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
