@@ -38,7 +38,7 @@ I'm Jacek (also known as ***Jack*** and ***Adi***) from *Edinburgh, Scotland*.
 #### The Four Principles (or Pillars) of Object-Oriented Programming
 1. [Encapsulation](https://github.com/pol-pm/starter-template/blob/main/CC2/class1_enc.js)
 2. [Inheritance](https://github.com/pol-pm/starter-template/blob/main/CC2/class2_inh.js)
-3. [Polymorphism](https://github.com/pol-pm/starter-template/blob/main/CC2/class2_pol.js)
+3. [Polymorphism](https://github.com/pol-pm/starter-template/blob/main/CC2/class3_pol.js)
 4. [Abstraction](https://github.com/pol-pm/starter-template/blob/main/CC2/class4_abs.js)
 
 #### Additional examples
