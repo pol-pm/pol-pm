@@ -18,7 +18,7 @@ Explore my `CodeSpace` journey: Dive into my collection of exercises from the **
 <div align="center">
   <a href="https://github.com/pol-pm/woo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-pm&layout=compact&repo=woo&theme=transparent&hide_border=true" /></a>
 <!-- Most used langauges -->
-  <a href="https://github.com/pol-pm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-pm&layout=compact&theme=transparent&hide_border=true" /></a>
+  <a href="https://github.com/pol-pm/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-pm&layout=compact&theme=transparent&hide_border=true" /></a>
 </div>
 
 <!-- ## Featured repositories
