@@ -11,6 +11,8 @@ I'm Jacek (also known as ***Jack*** and ***Adi***) from *Edinburgh, Scotland*.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Sometimes I wonder if I’m human, an AI, or a bot – but rest assured, I’ve got the skills and humour of a real person!
 
+> I warmly encourage you to visit, explore, and actively contribute to my Woo Repository. This repository is a dynamic space where shared knowledge and collaborative effort truly come to life. Your insights, feedback, and contributions are not just welcome, they're essential in enriching this resource. Together, let's expand our understanding and capabilities within the WooCommerce world!
+
 ## Tools
 [Visual Studio Code](https://code.visualstudio.com/) | [GitHub Desktop](https://desktop.github.com/) | [XAMPP](https://www.apachefriends.org/index.html) | [Cypress](https://cypress.io/) | [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
 
