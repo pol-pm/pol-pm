@@ -13,6 +13,30 @@ I'm Jacek (also known as ***Jack*** and ***Adi***) from *Edinburgh, Scotland*.
 
 > I warmly encourage you to visit, explore, and actively contribute to my Woo Repository. This repository is a dynamic space where shared knowledge and collaborative effort truly come to life. Your insights, feedback, and contributions are not just welcome, they're essential in enriching this resource. Together, let's expand our understanding and capabilities within the WooCommerce world!
 
+<!-- Most used langauges -->
+<div align="center">
+  <a href="https://github.com/pol-pm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-pm&layout=compact&repo=woo&theme=transparent&hide_border=true" /></a>
+  <a href="https://github.com/pol-pm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-pm&layout=compact&theme=transparent&hide_border=true" /></a>
+</div>
+
+## Featured repositories
+<a href="https://github.com/pol-pm/woo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-pm&repo=woo&theme=transparent&hide_border=true" />
+</a>
+
+<!-- ### Latest YouTube videos
+<table>
+<tr><td><a href="https://www.youtube.com/watch?v="><img width="140px" src="https://i.ytimg.com/vi/z6-5RklxhVY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=">Developer Decisions 🤔 #javascript #devlife</a> (Jan 27, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v="><img width="140px" src="https://i.ytimg.com/vi/53ODzQoSZOg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=">Networking is HARD!</a> (Jan 26, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v="><img width="140px" src="https://i.ytimg.com/vi/XTrDk9GJxsw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=">Open Source welcomes ALL help!</a> (Jan 25, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v="><img width="140px" src="https://i.ytimg.com/vi/vksraDNPmSU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=">STOP watching tutorials!</a> (Jan 24, 2024)<br/></td></tr>
+</table>
+-->
+
 ## Tools
 [Visual Studio Code](https://code.visualstudio.com/) | [GitHub Desktop](https://desktop.github.com/) | [XAMPP](https://www.apachefriends.org/index.html) | [Cypress](https://cypress.io/) | [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
 
