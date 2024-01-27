@@ -19,10 +19,11 @@ I'm Jacek (also known as ***Jack*** and ***Adi***) from *Edinburgh, Scotland*.
   <a href="https://github.com/pol-pm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-pm&layout=compact&theme=transparent&hide_border=true" /></a>
 </div>
 
-## Featured repositories
+<!-- ## Featured repositories
 <a href="https://github.com/pol-pm/woo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-pm&repo=woo&theme=transparent&hide_border=true" />
 </a>
+-->
 
 <!-- ### Latest YouTube videos
 <table>
