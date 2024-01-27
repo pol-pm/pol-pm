@@ -11,11 +11,13 @@ I'm Jacek (also known as ***Jack*** and ***Adi***) from *Edinburgh, Scotland*.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Sometimes I wonder if I’m human, an AI, or a bot – but rest assured, I’ve got the skills and humour of a real person!
 
+Explore my `CodeSpace` journey: Dive into my collection of exercises from the **Edinburgh College** bootcamp in CodeSpace! It's a window into the skills and knowledge I've honed throughout this transformative learning experience. Whether you're a fellow coder, a curious learner, or a potential collaborator, I invite you to peruse my projects and share in the journey. [View My Work](https://github.com/pol-pm/pol-pm/blob/df71a8792fe1fb81428c1b31231ce5da105778f0/CODESPACE.md)
+
 > I warmly encourage you to visit, explore, and actively contribute to my Woo Repository. This repository is a dynamic space where shared knowledge and collaborative effort truly come to life. Your insights, feedback, and contributions are not just welcome, they're essential in enriching this resource. Together, let's expand our understanding and capabilities within the WooCommerce world!
 
-<!-- Most used langauges -->
 <div align="center">
-  <a href="https://github.com/pol-pm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-pm&layout=compact&repo=woo&theme=transparent&hide_border=true" /></a>
+  <a href="https://github.com/pol-pm/woo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-pm&layout=compact&repo=woo&theme=transparent&hide_border=true" /></a>
+<!-- Most used langauges -->
   <a href="https://github.com/pol-pm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-pm&layout=compact&theme=transparent&hide_border=true" /></a>
 </div>
 
