@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Jacek (also known as ***Jack*** and ***Adi***) from *Edinburgh, Scotland*.
+I'm Jacek (also known as ***Jack*** and ***Adi***) from *Palm Coast, Florida*.
 
 - 🔭 Actively **working on** diverse WordPress, WooCommerce and Brizy Cloud website projects, with a commitment to delivering high-quality results.
 - 🌱 Actively **learning** full stack web development through a software bootcamp, covering Vanilla JavaScript, Node.js, Cypress testing, MySQL databases, PHP web technologies and HTML with Bootstrap. Eager to apply these skills in potential opportunities.
